@@ -18,3 +18,17 @@ This is a mobile-friendly responsive website built using **HTML** and **CSS medi
 - **Responsive Typography & Buttons:** Font sizes and button sizes adjust for different screen widths.
 - **Media Queries:** Separate breakpoints for tablets (481–768px) and desktops (769px+).
 - **Fully Deployable:** Works on any browser, tested with VS Code and Chrome DevTools.
+
+---
+## File Structure
+responsive-website-mediaqueries/
+│
+├── index.html 
+└── styles.css 
+---
+
+## How to Use
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/nagarajnaik2005/responsive-website-mediaqueries.git
